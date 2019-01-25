@@ -1,5 +1,5 @@
 {
-  "name": "reddsuite",
+  "name": "redditsuite",
   "version": "1.0.0",
   "description": "Reddit Automation Suite",
   "engines": {
@@ -34,6 +34,7 @@
     "axios": "^0.15.3",
     "compression": "^1.7.3",
     "connect-session-sequelize": "^4.1.0",
+    "eslint-config-fullstack": "^6.0.0",
     "express": "^4.16.3",
     "express-session": "^1.15.1",
     "history": "^4.6.3",
